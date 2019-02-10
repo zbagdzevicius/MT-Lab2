@@ -16,3 +16,6 @@ There are many open source alternatives to build virtual reality application. On
   - Test application on at least two browsers and specify in README.md which version and browser it was.
   - Additional features are welcome and bonuses are available.
   - To pass this lab, you have to complete at least two points from the requirement list.  
+  
+# Important notes
+  - It might be the case, that web server will be need to run VR application. You can try to use Appache, Tomcat, HFS or any other server to host your this VR application.
