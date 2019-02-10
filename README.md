@@ -18,4 +18,7 @@ There are many open source alternatives to build virtual reality application. On
   - To pass this lab, you have to complete at least two points from the requirement list.  
   
 # Important notes
-  - It might be the case, that web server will be need to run VR application. You can try to use Apache: https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md Tomcat: http://androidsrc.net/installing-tomcat8-raspberry-pi-3/ HFS: http://www.rejetto.com/hfs/ or any other server.
+  - It might be the case, that web server will be need to run VR application. 
+  - You can try to use Apache: https://www.raspberrypi.org/documentation/remote-access/web-server/apache.md 
+  - Tomcat: http://androidsrc.net/installing-tomcat8-raspberry-pi-3/ 
+  - HFS: http://www.rejetto.com/hfs/ or any other server.
